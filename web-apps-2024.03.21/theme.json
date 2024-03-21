@@ -1,0 +1,370 @@
+{
+   "name":"Web apps",
+   "description":"This theme includes element styles with icons for web apps.",
+   "elements":[
+      {
+         "tag":"WebApp - abantecart",
+         "icon":"abantecart.png"
+      },
+      {
+         "tag":"WebApp - b2evolution",
+         "icon":"b2evolution.png"
+      },
+      {
+         "tag":"WebApp - chamilo",
+         "icon":"chamilo.png"
+      },
+      {
+         "tag":"WebApp - classicpress",
+         "icon":"classicpress.png"
+      },
+      {
+         "tag":"WebApp - clientexec",
+         "icon":"clientexec.png"
+      },
+      {
+         "tag":"WebApp - cmsmadesimple",
+         "icon":"cmsmadesimple.png"
+      },
+      {
+         "tag":"WebApp - codeigniter",
+         "icon":"codeigniter.png"
+      },
+      {
+         "tag":"WebApp - collabtive",
+         "icon":"collabtive.png"
+      },
+      {
+         "tag":"WebApp - concrete",
+         "icon":"concrete.png"
+      },
+      {
+         "tag":"WebApp - contao",
+         "icon":"contao.png"
+      },
+      {
+         "tag":"WebApp - coppermine",
+         "icon":"coppermine.png"
+      },
+      {
+         "tag":"WebApp - cslivehelp",
+         "icon":"cslivehelp.png"
+      },
+      {
+         "tag":"WebApp - cubecart",
+         "icon":"cubecart.png"
+      },
+      {
+         "tag":"WebApp - dokuwiki",
+         "icon":"dokuwiki.png"
+      },
+      {
+         "tag":"WebApp - dolibarr",
+         "icon":"dolibarr.png"
+      },
+      {
+         "tag":"WebApp - dotclear",
+         "icon":"dotclear.png"
+      },
+      {
+         "tag":"WebApp - drupal",
+         "icon":"drupal.png"
+      },
+      {
+         "tag":"WebApp - e107",
+         "icon":"e107.png"
+      },
+      {
+         "tag":"WebApp - fengoffice",
+         "icon":"fengoffice.png"
+      },
+      {
+         "tag":"WebApp - fluxbb",
+         "icon":"fluxbb.png"
+      },
+      {
+         "tag":"WebApp - formtools",
+         "icon":"formtools.png"
+      },
+      {
+         "tag":"WebApp - freescout",
+         "icon":"freescout.png"
+      },
+      {
+         "tag":"WebApp - frontaccounting",
+         "icon":"frontaccounting.png"
+      },
+      {
+         "tag":"WebApp - geeklog",
+         "icon":"geeklog.png"
+      },
+      {
+         "tag":"WebApp - getsimple",
+         "icon":"getsimple.png"
+      },
+      {
+         "tag":"WebApp - glpi",
+         "icon":"glpi.png"
+      },
+      {
+         "tag":"WebApp - hesk",
+         "icon":"hesk.png"
+      },
+      {
+         "tag":"WebApp - humhub",
+         "icon":"humhub.png"
+      },
+      {
+         "tag":"WebApp - invoiceninja",
+         "icon":"invoiceninja.png"
+      },
+      {
+         "tag":"WebApp - joomla",
+         "icon":"joomla.png"
+      },
+      {
+         "tag":"WebApp - limesurvey",
+         "icon":"limesurvey.png"
+      },
+      {
+         "tag":"WebApp - livehelperchat",
+         "icon":"livehelperchat.png"
+      },
+      {
+         "tag":"WebApp - magento",
+         "icon":"magento.png"
+      },
+      {
+         "tag":"WebApp - mahara",
+         "icon":"mahara.png"
+      },
+      {
+         "tag":"WebApp - mantis",
+         "icon":"mantis.png"
+      },
+      {
+         "tag":"WebApp - mautic",
+         "icon":"mautic.png"
+      },
+      {
+         "tag":"WebApp - mediawiki",
+         "icon":"mediawiki.png"
+      },
+      {
+         "tag":"WebApp - modx",
+         "icon":"modx.png"
+      },
+      {
+         "tag":"WebApp - moodle",
+         "icon":"moodle.png"
+      },
+      {
+         "tag":"WebApp - mybb",
+         "icon":"mybb.png"
+      },
+      {
+         "tag":"WebApp - nextcloud",
+         "icon":"nextcloud.png"
+      },
+      {
+         "tag":"WebApp - omeka",
+         "icon":"omeka.png"
+      },
+      {
+         "tag":"WebApp - opencart",
+         "icon":"opencart.png"
+      },
+      {
+         "tag":"WebApp - opendocman",
+         "icon":"opendocman.png"
+      },
+      {
+         "tag":"WebApp - openrealestate",
+         "icon":"openrealestate.png"
+      },
+      {
+         "tag":"WebApp - orangehrm",
+         "icon":"orangehrm.png"
+      },
+      {
+         "tag":"WebApp - osclass",
+         "icon":"osclass.png"
+      },
+      {
+         "tag":"WebApp - oscommerce",
+         "icon":"oscommerce.png"
+      },
+      {
+         "tag":"WebApp - osticket",
+         "icon":"osticket.png"
+      },
+      {
+         "tag":"WebApp - owncloud",
+         "icon":"owncloud.png"
+      },
+      {
+         "tag":"WebApp - phpbb",
+         "icon":"phpbb.png"
+      },
+      {
+         "tag":"WebApp - phpfilemanager",
+         "icon":"phpfilemanager.png"
+      },
+      {
+         "tag":"WebApp - phpfusion",
+         "icon":"phpfusion.png"
+      },
+      {
+         "tag":"WebApp - phpmychat",
+         "icon":"phpmychat.png"
+      },
+      {
+         "tag":"WebApp - phpmyfaq",
+         "icon":"phpmyfaq.png"
+      },
+      {
+         "tag":"WebApp - phpwcms",
+         "icon":"phpwcms.png"
+      },
+      {
+         "tag":"WebApp - piwigo",
+         "icon":"piwigo.png"
+      },
+      {
+         "tag":"WebApp - piwik",
+         "icon":"piwik.png"
+      },
+      {
+         "tag":"WebApp - pmwiki",
+         "icon":"pmwiki.png"
+      },
+      {
+         "tag":"WebApp - prestashop",
+         "icon":"prestashop.png"
+      },
+      {
+         "tag":"WebApp - projectsend",
+         "icon":"projectsend.png"
+      },
+      {
+         "tag":"WebApp - pydio",
+         "icon":"pydio.png"
+      },
+      {
+         "tag":"WebApp - pyrocms",
+         "icon":"pyrocms.png"
+      },
+      {
+         "tag":"WebApp - selfoss",
+         "icon":"selfoss.png"
+      },
+      {
+         "tag":"WebApp - seopanel",
+         "icon":"seopanel.png"
+      },
+      {
+         "tag":"WebApp - serendipity",
+         "icon":"serendipity.png"
+      },
+      {
+         "tag":"WebApp - silverstripe",
+         "icon":"silverstripe.png"
+      },
+      {
+         "tag":"WebApp - smf",
+         "icon":"smf.png"
+      },
+      {
+         "tag":"WebApp - spip",
+         "icon":"spip.png"
+      },
+      {
+         "tag":"WebApp - subrion",
+         "icon":"subrion.png"
+      },
+      {
+         "tag":"WebApp - suitecrm",
+         "icon":"suitecrm.png"
+      },
+      {
+         "tag":"WebApp - textpattern",
+         "icon":"textpattern.png"
+      },
+      {
+         "tag":"WebApp - thebuggenie",
+         "icon":"thebuggenie.png"
+      },
+      {
+         "tag":"WebApp - tikiwiki",
+         "icon":"tikiwiki.png"
+      },
+      {
+         "tag":"WebApp - typo3",
+         "icon":"typo3.png"
+      },
+      {
+         "tag":"WebApp - vanilla",
+         "icon":"vanilla.png"
+      },
+      {
+         "tag":"WebApp - vtiger",
+         "icon":"vtiger.png"
+      },
+      {
+         "tag":"WebApp - wallabag",
+         "icon":"wallabag.png"
+      },
+      {
+         "tag":"WebApp - webcalendar",
+         "icon":"webcalendar.png"
+      },
+      {
+         "tag":"WebApp - webid",
+         "icon":"webid.png"
+      },
+      {
+         "tag":"WebApp - websitebaker",
+         "icon":"websitebaker.png"
+      },
+      {
+         "tag":"WebApp - webtrees",
+         "icon":"webtrees.png"
+      },
+      {
+         "tag":"WebApp - wikkawiki",
+         "icon":"wikkawiki.png"
+      },
+      {
+         "tag":"WebApp - wordpress",
+         "icon":"wordpress.png"
+      },
+      {
+         "tag":"WebApp - xmb",
+         "icon":"xmb.png"
+      },
+      {
+         "tag":"WebApp - xoops",
+         "icon":"xoops.png"
+      },
+      {
+         "tag":"WebApp - yourls",
+         "icon":"yourls.png"
+      },
+      {
+         "tag":"WebApp - zencart",
+         "icon":"zencart.png"
+      },
+      {
+         "tag":"WebApp - zenphoto",
+         "icon":"zenphoto.png"
+      },
+      {
+         "tag":"WebApp - zikula",
+         "icon":"zikula.png"
+      },
+      {
+         "tag":"WebApp - zurmo",
+         "icon":"zurmo.png"
+      }
+   ]
+}
