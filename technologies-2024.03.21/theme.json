@@ -1,0 +1,70 @@
+{
+   "name":"Technologies",
+   "description":"This theme includes element styles with icons for technologies.",
+   "elements":[
+      {
+         "tag":"Technology - apache-httpd",
+         "icon":"apache-ht-server.png"
+      },
+            {
+         "tag":"Technology - apache-solr",
+         "icon":"apache-solr.png"
+      },
+      {
+         "tag":"Technology - cas",
+         "icon":"cas.png"
+      },
+      {
+         "tag":"Technology - clamav",
+         "icon":"clamav.png"
+      },
+      {
+         "tag":"Technology - cloudflare-waf",
+         "icon":"cloudflare-waf.png"
+      },
+      {
+         "tag":"Technology - cron",
+         "icon":"cron.png"
+      },      
+      {
+         "tag":"Technology - load-balancer",
+         "icon":"load-balancer.png"
+      },
+      {
+         "tag":"Technology - mysql",
+         "icon":"mysql.png"
+      },
+      {
+         "tag":"Technology - nfs",
+         "icon":"nfs.png"
+      },
+      {
+         "tag":"Technology - oauth2",
+         "icon":"oauth2.png"
+      },
+      {
+         "tag":"Technology - php",
+         "icon":"php.png"
+      },
+      {
+         "tag":"Technology - react",
+         "icon":"react.png"
+      },
+      {
+         "tag":"Technology - redis",
+         "icon":"redis.png"
+      },
+      {
+         "tag":"Technology - saml",
+         "icon":"saml.png"
+      },
+      {
+         "tag":"Technology - shell-script",
+         "icon":"shell-script.png"
+      },
+      {
+         "tag":"Technology - smtp",
+         "icon":"smtp.png"
+      }
+  ]
+}
