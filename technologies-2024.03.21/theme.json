@@ -27,6 +27,14 @@
          "icon":"cron.png"
       },      
       {
+         "tag":"Technology - filesystem",
+         "icon":"filesystem.png"
+      },
+      {
+         "tag":"Technology - laravel",
+         "icon":"laravel.png"
+      },
+      {
          "tag":"Technology - load-balancer",
          "icon":"load-balancer.png"
       },
@@ -45,6 +53,10 @@
       {
          "tag":"Technology - php",
          "icon":"php.png"
+      },
+      {
+         "tag":"Technology - postgresql",
+         "icon":"postgresql.png"
       },
       {
          "tag":"Technology - react",
